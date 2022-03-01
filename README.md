@@ -1,27 +1,42 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+<h1>BMI Calculator</h1>
 
-#  BMI Calculator
+This project is from Angela Yu's course on Udemy called [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/).
 
-## Our Goal
+---
 
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
+## 💁🏽‍♂️ Overview
 
-## What you will create
+It's an app to calculate body mass index
 
-By the end of the module, you will have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
+## ⚙️ How it works
 
-## What you will learn
+The user selects their height and weight then presses the
+calculate button.
+
+The app will show another screen and based on the BMI result
+this screen will have a different color and a tip for the user.
+
+## 📹 Video
+
+![](https://media.giphy.com/media/8oN9fEd4NOhef48uS9/giphy.gif)
+
+## 🔨 Built with
+
+* UIKit
+* Storyboard
+* MVC 
+
+## 🤓 What I learned
 
 * How to create multi-screen apps with animated navigation.
 * Optional binding, optional chaining and the nil coalescing operator.
-* How to create classes and difference between classes and structs. 
+* How to create classes and difference between classes and structs.
 * Pass by value vs. pass by reference. 
 * Formatting Strings. 
 * Color literals.
 
+## ⌨ How to use it
 
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+Download this repository, open it in Xcode, select and iPhone
+simulator and press command + R to run the app.
